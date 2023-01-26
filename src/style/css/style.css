@@ -1,0 +1,27 @@
+body {
+  background: rgb(157, 152, 152);
+  font-size: 25px;
+}
+
+ul {
+  list-style: none;
+}
+ul li span {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.navigation {
+  display: flex;
+  float: right;
+}
+.navigation li a {
+  color: black;
+  text-decoration: none;
+  padding-right: 10px;
+}
+.navigation li a:hover {
+  color: rgb(64, 72, 170);
+}
+
+/*# sourceMappingURL=style.css.map */
